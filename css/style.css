@@ -93,4 +93,78 @@
 .text-item {
     color: #FFFFFF
 }
+.picture-item {
+ width: 1440px;
+ height: 564px;
+ position: relative;
+ display: inline-block;
+ background-image: url(https://5.imimg.com/data5/SELLER/Default/2023/6/317415927/HV/XW/QM/123361265/3d-interior-rendering-500x500.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center center;
+ 
+ 
+
+ 
+}
+
+    
+
+.picture-name {
+    position: absolute;
+    font-weight: 540px;
+    font-size: 96px;
+    
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+    color: white;
+}
+.footer-element {
+    background-color:#000000 ;
+    padding-top: 96px;
+    padding: bottom 96px; 
+    padding-right: 150px;
+    display: inline-block;
+}
+
+.footer-block {
+ border-width: 1px;
+ border-style: solid;
+ border-color: blue;
+ justify-content: space-between;
+}
+.footer-block-1 {
+    display: inline-block;
+    vertical-align: top; 
+}
+.footer-block-2 {
+     display: inline-block;
+    vertical-align: top;
+}
+.footer-block-3 {
+     display: inline-block;
+    vertical-align: top;
+}
+.footer-block-4 {
+     display: inline-block;
+    vertical-align: top;
+}
+.footer-block-5 {
+     display: inline-block;
+    vertical-align: top;
+}
+.li-item {
+    color: white;
+}
+.title-item {
+    color: white;
+}
+.text-name {
+    color: white;
+}
+.navigation-1 {
+    display: inline-block;
+}
 
