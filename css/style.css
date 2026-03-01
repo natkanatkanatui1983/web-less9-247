@@ -15,3 +15,82 @@
     width: 1440px;
     height: 96px;
 }
+/* 1section */
+.wraper {
+    display: flex;
+}
+
+.title1 {
+    font-weight: 900px;
+    font-size: 56px;
+}
+.left-block {
+    width: 490px;
+    height: 288px;
+    text-align: center;
+    margin-right: 130px;
+}
+.right-block {
+    width: 490px;
+    height: 428px;
+    
+} 
+/* section2 */
+.wraper2 {
+    display: flex;
+    background-color:#F3F3F3 ;
+    width: 1440px;
+    height: 244,2px;
+    justify-content: space-between;
+
+}
+
+.box {
+    width: 360px;
+    height: 116,2px;
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 64px;
+
+}
+.name {
+    margin-bottom: 29,36px;
+}
+.section3 {
+    width: 1440px;
+    height: 620px;
+    background-color:#000000 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wraper3 {
+    width: 1140px;
+    height: 428px;
+    display: flex;
+
+}
+.picture-block {
+    width: 503,5px;
+    height: 428px;
+    margin-right: 133px;
+}
+.text-block {
+    width: 503,5px;
+    height: 264px;
+    text-align: center;
+    margin: auto;
+}
+
+.name2 {
+    font-weight: 900px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.name3 {
+    color: #FFFFFF;
+}
+.text-item {
+    color: #FFFFFF
+}
+
