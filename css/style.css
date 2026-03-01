@@ -18,6 +18,8 @@
 /* 1section */
 .wraper {
     display: flex;
+   
+
 }
 
 .title1 {
@@ -33,8 +35,13 @@
 .right-block {
     width: 490px;
     height: 428px;
-    
+      
 } 
+ @media (max-width:1024px) {
+   .wraper {
+    flex-direction: column;
+   } 
+ }
 /* section2 */
 .wraper2 {
     display: flex;
@@ -56,6 +63,13 @@
 .name {
     margin-bottom: 29,36px;
 }
+     @media (max-width:744px) {
+       .wraper2 {
+        flex-direction: column;
+       } 
+     }
+
+
 .section3 {
     width: 1440px;
     height: 620px;
@@ -64,6 +78,7 @@
     justify-content: center;
     align-items: center;
 }
+  
 .wraper3 {
     width: 1140px;
     height: 428px;
